@@ -1,2 +1,2 @@
 # railbook
-sample
+リポジトリ作成テスト
